@@ -525,4 +525,7 @@ input:focus, textarea:focus{
 
 @media (max-width: 520px){
   .form__row{ grid-template-columns: 1fr; }
+} 
+.h1{
+  color: red;
 }
